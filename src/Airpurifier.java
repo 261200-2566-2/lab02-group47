@@ -10,8 +10,6 @@ public class Airpurifier {
     String  Fan;
 
 
-    int Fanspeed;
-
     //instance Methods
     static int modelCount;
 
@@ -30,6 +28,7 @@ public class Airpurifier {
         System.out.println("Brand -> "+ brand);
         System.out.println("Serial Number -> "+ Serial_Number);
         System.out.println("Screen Color -> "+ screencolor);
+        System.out.println("Font Color -> "+ FontColor);
         System.out.println("--------------------");
     }
 

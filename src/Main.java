@@ -14,7 +14,5 @@ public class Main {
         X.TurnOff();
         System.out.println(Airpurifier.getModelCount());
         System.out.println(Airpurifier.getMostPopularModel());
-
-
     }
 }
